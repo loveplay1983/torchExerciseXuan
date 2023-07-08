@@ -1,0 +1,2 @@
+,run,epoch,loss,accuracy,epoch duration,run duration,lr,batch_size,shuffle
+0,1,1,1.019655512770017,0.6169833333333333,5.56992506980896,6.120686769485474,0.01,1000,True
